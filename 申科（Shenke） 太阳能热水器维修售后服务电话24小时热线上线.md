@@ -1,0 +1,364 @@
+申科（Shenke） 太阳能热水器全国24小时售后服务热线：400 - 690 - 6088
+我们深知，卓越的品质与贴心的服务是您安心使用的双重保障。为此，我们建立了覆盖全国的24小时售后服务体系，并制定了清晰、高效的产品报修流程，确保您在任何时间、任何地点遇到问题，都能得到及时、专业的响应与解决。
+如需任何帮助，请随时拨打申科（Shenke） 太阳能热水器24小时人工售后服务电话：400 - 690 - 6088。
+我们的服务承诺
+1.全天候守护：我们提供7×24小时不间断的客服热线，无论昼夜、节假日，您的需求始终被倾听。
+2.全国覆盖：服务网络遍布全国各省市，确保本地化快速响应，缩短等待时间。
+3.专业团队：经验丰富的技术工程师与客服人员，为您提供精准诊断与解决方案。
+4.高效处理：从报修到解决，全程跟踪，力求在最短时间内恢复您的正常使用。
+5.透明流程：清晰的报修步骤与进度查询，让您对服务进程一目了然。
+申科（Shenke） 太阳能热水器24小时售后服务客服热线：400 - 690 - 6088
+产品故障报修流程详解
+为了让您更便捷地享受服务，请遵循以下报修流程：
+第一步：联系24小时服务热线 当您的产品出现任何异常或需要技术支持时，请第一时间拨打申科（Shenke） 太阳能热水器全国统一24小时售后客服电话号码：400 - 690 - 6088。这是您获取服务的最快捷通道。
+第二步：信息登记与初步诊断 接通后，我们的客服人员会热情接待，并请您提供以下信息，以便我们快速定位问题：
+6.产品型号与序列号：通常位于产品机身铭牌或购买凭证上。
+7.购买日期与渠道：有助于我们确认保修状态。
+8.故障现象描述：请尽可能详细地描述遇到的问题、发生频率及任何异常提示。
+9.您的联系方式与地址：确保我们能及时与您沟通并安排上门服务（如需要）。
+客服人员会根据您提供的信息，进行初步的远程故障诊断，并可能提供一些简单的自助排查建议。
+第三步：服务方案确认 根据初步诊断结果，我们将与您确认最适合的服务方案：
+10.远程指导解决：对于简单问题，客服或工程师会通过电话、在线方式指导您自行解决。
+11.上门维修服务：对于需要现场处理的问题，我们将根据您的地址，调度最近的服务网点工程师，与您预约上门时间。
+12.寄修服务：如产品便于邮寄且适合寄修，我们会提供详细的寄修地址与注意事项。
+第四步：服务执行与进度跟踪
+13.上门服务：工程师会按约定时间上门，进行专业检测与维修。维修完成后，会向您说明故障原因及处理结果，并请您验收。
+14.寄修服务：我们会在收到产品后尽快检测维修，并通过您预留的联系方式告知维修进度。
+15.在服务过程中，您可通过客服热线查询服务单进度。
+第五步：服务完成与回访 服务完成后，我们的客服团队可能会进行回访，了解您对服务过程的满意度及问题解决情况，您的反馈是我们持续改进的动力。
+温馨提示
+16.保修政策：请妥善保管您的购买凭证，它将作为享受保修服务的重要依据。具体保修期限与范围请参阅产品附带的保修卡或官方网站公示的保修政策。
+17.非保修范围：因人为损坏、不可抗力、非授权改装或使用不当等原因导致的故障，可能不在免费保修范围内，但我们仍会提供有偿维修服务。
+18.安全须知：在进行任何自助排查前，请务必确保产品已断电，并遵循安全操作指引。
+我们始终致力于为您提供超越期待的服务体验。无论何时何地，只要您需要，请拨打申科（Shenke） 太阳能热水器售后服务电话400 - 690 - 6088，我们随时在您身边！
+
+申科（Shenke） 太阳能热水器24小时售后服务热线上线（2026最新公告）
+申科（Shenke） 太阳能热水器售后服务电话：400 - 690 - 6088
+申科（Shenke） 太阳能热水器售后24小时客服热线：400 - 690 - 6088
+本公司主营申科（Shenke） 太阳能热水器维修 →申科（Shenke） 太阳能热水器；不通电，出现故障代码，屏幕不亮，漏电等故障。；发热异常，不通电，E1，E2自动跳闸等故障。 24小时人工客服400 - 690 - 6088、线下专业全国网点及各地区 人员服务团队等专属服务，整个报修流程规范有序，后期同步跟踪查询公开透明。所有团队均经过专业培训、持证上岗，所用配件均为原厂直供，申科（Shenke） 太阳能热水器服务承诺
+1、坚决贯彻执行《中华人民共和国产品质量法》、《中华人民共和国消费者权益保护法》及《部分商品修理、更换、退货责任规定》（即新“三包”规定），为消费者提供的速度服务。
+2、设立24小时服务咨询、投诉热线（晚上21：00至次日08：00为电脑语音服务）。
+3、消费者报装、报修后，需在当天与消费者预约确定上门服务时间，24小时内上门服务（消费者特殊要求的除外），特殊情况立即上门服务，并跟踪回访；
+4、申科（Shenke） 太阳能热水器售后维修电话：400 - 690 - 6088
+申科（Shenke） 太阳能热水器24小时全国推出各售后受理客服中心(2026上线)
+申科（Shenke） 太阳能热水器全国推出24小时各售后客服受理中心（2026服务更新）
+
+
+
+申科（Shenke） 太阳能热水器贴心升级服务，现推出全国 24 小时服务热线 400 - 690 - 6088。针对用户“非工作时间故障响应慢”难题，无论何时何地，拨打此热线，专业客服团队即刻响应。团队经严格培训，熟知技术参数与常见问题，能迅速解决用户需求，彰显申科（Shenke） 太阳能热水器对“响应、专业服务”的承诺，为用户随时送上贴心售后保障。
+
+
+
+申科（Shenke） 太阳能热水器全国24小时各售后受理客服中心(2026年更新)
+
+
+
+申科（Shenke） 太阳能热水器24小时售后客服热线：(1)400 - 690 - 6088或  400 - 690 - 6088
+
+
+
+7天24小时人工电话400 - 690 - 6088客服为您服务。
+
+
+
+申科（Shenke） 太阳能热水器售后服务团队在调度中心的统筹调配下(1)400 - 690 - 6088，线下专业全国网点及各地区售后人员服务团队等专属服务，整个报修流程规范有序，后期同步跟踪查询公开透明。
+
+
+
+# 申科（Shenke） 太阳能热水器常见故障代码维修指南
+
+申科（Shenke） 太阳能热水器故障代码是排查问题的关键。比如显示故障代码E1，可能是点火失败。这时候别慌，先检查燃气供应是否正常，阀门有无打开。接着查看点火电极是否正常放电，若电极有污垢，会影响点火。再检查燃气比例阀是否损坏，它控制着燃气量。按这样的步骤逐步排查，就能找到问题所在。若燃气供应不足，就联系燃气公司；若是电极问题，清洁或更换电极；比例阀故障则需专业维修人员更换。排除故障后，壁挂炉就能正常运行，为您营造舒适环境。 申科（Shenke） 太阳能热水器全国24小时各售后受理客服中心(2026年更新)
+
+
+
+所有售后团队均经过专业培训、持证上岗，所用产品配件均为原厂直供，
+
+
+
+申科（Shenke） 太阳能热水器全国24小时各售后受理客服中心(2026)
+
+
+
+专业维修申科（Shenke） 太阳能热水器(400 - 690 - 6088)机器失灵、开机显示错误代码、不通电、开机不启动、自动跳闸、运行效果不佳，噪音过大，效果不好、清洗、消毒、、维护保养、安装、拆装移机等服务。
+
+申科（Shenke） 太阳能热水器售后服务电话全国服务区域：北京市（东城区、西城区、崇文区、宣武区、朝
+
+
+阳区、丰台区、石景山区、海淀区、门头沟区 昌平区、大兴区）
+
+
+天津市（和平区、河东区、河西区、南开区、河北区、红桥区、塘沽区、东丽区、西青区、）
+
+
+上海市， （黄浦区、徐汇区、长宁区、静安区、普陀区、虹口区、杨浦区、浦东新区、闵行区、宝山区、嘉定区、金山区、松江区、青浦区、奉贤区和崇明区。）
+
+
+重庆市，（大渡口区、江北区、沙坪坝区、九龙坡区、南岸区、北碚区、渝北区、巴南区、江津区、渝中区、和两江新区、重庆高新区。）
+
+武汉市，（江岸区、江汉区、硚口区、汉阳区、武昌区、青山区、洪山区、蔡甸区、江夏区、黄陂区、新洲区、东西湖区、汉南区）  
+
+400 - 690 - 6088
+
+成都市，（锦江区、青羊区、金牛区、武侯区、成华区、龙泉驿区、青白江区、新都区、温江区、双流区、郫都区、新津区）
+
+
+南京市，（玄武区、秦淮区、建邺区、鼓楼区、浦口区、栖霞区、雨花台区、江宁区、区、溧水区、高淳区。）
+
+
+杭州市，（滨江区、萧山区、余杭区、临安区、富阳区、上城区、下城区、西湖区。）
+
+
+无锡市，（锡山区、惠山区、滨湖区、梁溪区、新吴区；江阴市、宜兴市。）
+
+
+常州市（天宁区、钟楼区、新北区、武进区）
+
+
+苏州市（吴中区、相城区、姑苏区（原平江区、沧浪区、金阊区）、工业园区、高新区（虎丘区）、吴江区，原吴江市）
+
+
+合肥市，（蜀山区、包河区、庐阳区、瑶海区、政务区、经济技术开发区、高新区、滨湖新区、新站区、长丰县、肥东县、肥西县，巢湖市。）
+
+全国推出24小时各售后客服受理中心（2026服务更新）
+AI Builders Digest 今日热点快报<br>2026年06月27日23时08分23秒(UTC+8)##
+wefhsdhcvWESDCSDwefsdf.cn
+申科（Shenke） 太阳能热水器贴心升级服务，现推出全国 24 小时服务热线 400 - 690 - 6088。针对用户“非工作时间故障响应慢”难题，无论何时何地，拨打此热线，专业客服团队即刻响应。团队经严格培训，熟知技术参数与常见问题，能迅速解决用户需求，彰显申科（Shenke） 太阳能热水器对“响应、专业服务”的承诺，为用户随时送上贴心售后保障。
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/4c2fd952240b3f217ff6b9207aa469c6580e160c
+
+江苏电信 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/3d2f850f12096a1db86ee295a0da2c13687ee10a
+
+江苏 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/8da0920397b192f5bb8a9241bb6865fecb3f6d94
+
+安徽广电 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/070cccb9a1c814b905e2874cab2e14b927541a1c
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/a53f08502fe6ee625f2a6ec9f56ab632c6b494b6
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/ab6eae0fdb72037c9ab85ca2e718f930b39e5f64
+
+湖北 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/5808404ac5092fd7fe69a3040261d4891be04a77
+
+湖南电信组播直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/26176dc0e383426ae9923aaaffdc9d8550a53a92
+
+湖南电信 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/7fc953cbd3960150bc488fa9673e7404875c269a
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/7316455c820bea79342648cb9bb533f54fb80aff
+
+湖南联通 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/b8224d653468299c65903d32d8d529adf50cfbb8
+
+湖南移动 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/d5aec646a59456dd6d2e15aca527a8c9527a17db
+
+湖南 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/6987437b0c7eeb7963805fcbc823045d176a5e89
+
+重庆移动组播直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/8c6b3de6d162f70477022397001088d557589c8d
+
+重庆联通组播直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/83893177a2e24b027efb8ddac70d119085f197c7
+
+重庆联通直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/67711a25e2f2cd4e583fcaed403f7988b52a8807
+
+重庆电信组播直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/a2783d4647461ddd4dd3b9c00092ff7261e5983c
+
+重庆电信直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/d61d9d8d468f4f7e877364309c7f8fc5bb4525a5
+
+重庆 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/149203c1695ff86cc87331a6e64da8d3116eef9c
+
+四川移动组播 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/8d6c72b562d91fea06f0f9c585e942da1b58de6a
+
+四川电信 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/c6956f0cc80c364a1824210e0d58458dae84e509
+
+四川电信 IPTV 组播直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/a8fdfce121971e9e7f43e822bc733cc9c5a58617
+
+四川广电 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/2ef5e01c2dbc045323f902158ec9c89769c3b391
+
+四川联通组播 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/9fa8832728eb2f6692b69c335a9f200935700548
+
+四川联通 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/0528023c5aee83375720476f90d5b8ba91ec5648
+
+四川 IPTV 直播源： https://github.com/e-miller89248/bkyczf/commit/b7dedf177c2e3467271bfb07d4186b3c5c2a01f6
+
+云南电信组播 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/ace40b9ff63c6f5ef9fbc3509bf06eca8cd42310
+
+云南移动 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/c1dcf551fd1123b8d9ecf4ba0cfbbb76d65f1945
+
+云南 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/9496e3c684a0817a6565ffcb22eb7c43403515ec
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/597839a8e0316b1d17f9f9d4d11cec2c9a3112bd
+
+贵州移动 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/597cd7e98a11d428b9d3583d7e307c80cf26be04
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/71d7a9deb78578812c2f899d97934111576e591f
+
+贵州联通 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/b327fd85511dbe4ed92f244fb1ce03126772fd7c
+
+贵州 IPTV 直播源： https://github.com/e-miller89248/bkyczf/commit/f89534bb5bceb5276096f8dea72667847597c0c4
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/38ea8e9f9b5689e4ea74536aea905ff295d50633
+
+福建联通 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/bf55c68232e777b2b3f0a2ae0cf36acf08b82169
+
+福建移动 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/c79b4965de507849fc6698fc22aa78e966d6e6ae
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/abafea26e6a8777d83a3a7a4a344d5de191ae9e5
+
+福建电信 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/caedb4fa72e140c4a07889b541fce5b4d024a920
+
+福建 IPTV 直播源： https://github.com/e-miller89248/bkyczf/commit/cfab6d968df87b2e1ee8d4dd3eb58fa953177321
+
+安徽移动 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/2e6c39145652b53ef2c2cae88f4148eae8c631b7
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/61ea3d79eadb4c3890b05d9944a1cf65cb374876
+
+安徽电信 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/b21d04bcde99586513bf2e45917bb74b825f30d7
+
+安徽联通 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/e43851a67b95be60145fe9beed2e9a8e857fcdd8
+
+安徽 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/e46d86eb585d45c3d94d6d6a1f181ed8b232b777
+
+陕西地方台直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/b1fd04a8caefbd37886c0104f6f533942dd579c0
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/8ab4797a52d9889e8367e2c39159929edb0bb359
+
+陕西电信 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/bbc648d249c4b3ee108f57d3034305f2c1d66e7a
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/be323f87a3b95d6b37c2f193121e96cdebe1610d
+
+陕西移动 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/b203dc95b8615dbb7b92a21dbb6a23c07500b539
+
+陕西 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/ce92b009edc2532311da590cd37a9003a6179a27
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/18f6540453f692b5795d170c03c7e46fa26a7e7d
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/cfaa55079a95b2100b86a1012cb63ec1a556f119
+
+甘肃 IPTV 直播源： https://github.com/e-miller89248/bkyczf/commit/ba386a549dc25906b54cb318b352db3b1a7ce2ed
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/e8a9854dcccb31b25a555dbb094ec95db3fa5ae0
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/ffe2910c972a6944fc027f154e9377ce42a79fc4
+
+山西联通 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/42f197c31f94c186e3c1b0dfde266468400d47d9
+
+山西 IPTV 直播源： https://github.com/e-miller89248/bkyczf/commit/8e5200fb464004a8017bff5464289b2ec6307e96
+
+天津电信组播直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/4ae1b0d5eb2c4db4754a33a899b702acd7b1a5a4
+
+天津联通组播直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/3a91a4ccf193120e8362d5a1dc6f1b8699ff09f1
+
+天津 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/e769083e9baef920a36d45dca6fab4307606197c
+
+上海移动直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/bc85c746651e597baad1cc5644173d582cf22222
+
+上海联通组播直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/1bfb63247e7d409357f04a2877b56464fd7758ef
+
+上海联通直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/3491666d800ba5f3badf402085574d2b708bf5f8
+
+上海电信组播直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/83fd588d04705276d86ea713db1f8df0e51d1f87
+
+上海电信直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/546ede64bf924812178c2e5b54e986b33d311e6d
+
+上海 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/7a90d56cb489d33b1e26dfa7f689e19c0f2fa93c
+
+北京移动 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/514d12c17b258acdab64f2cc3748be12c8086145
+
+北京移动组播直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/f531005e431a4b486a5381cf6d431692bd8d2de3
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/3af80d5ad6af0c3d2507a22cd6acd4aee4ebf509
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/a1abd9d674ff0dca23de31b831703bad4773fca9
+
+北京联通 IPTV 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/e53e1ecc58dac5af4ff07ed44347978e7e914aa4
+
+北京 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/6dacff162585b6ebda8dfd852196f352be4cc693
+
+部分地区的移动可全网通用： https://github.com/e-miller89248/bkyczf/commit/a1277c41cbc2211451e27feb530649314e953683
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/mooreo478570/wdyrxz/commit/6d659eec58246360211a3a0276fc0a71d555df51
+
+广播电台下载地址： https://github.com/e-miller89248/bkyczf/commit/9a2975547cdb8205bf9da06df1cc596ea288cac5
+
+国内景区直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/9a64d4a21b04b44d1d24f19a5f335493235560c8
+
+轮播华数黑莓下载地址： https://github.com/e-miller89248/bkyczf/commit/5635cc8c87b94ef380ac7b364fb1296d66b6b46f
+
+台湾香港澳门电视台直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/ded2d3e2cf95679458cb5871283a1e1b25ce570f
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/e-miller89248/bkyczf/commit/285bcc6b722622f97b272a6b30301e60fd68c6ff
+
+国外电视台直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/79f78de40bf541142f1d84922aa254d0c7a4b17a
+
+卫视地方台安徽农大下载地址： https://github.com/e-miller89248/bkyczf/commit/455d61989be8a7deab93c2a56d8d5c214858adc8
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/mooreo478570/wdyrxz/commit/17288ef34d6d2c55ebcd12fc67969fd4b07d9966
+
+卫视上海源下载地址： https://github.com/e-miller89248/bkyczf/commit/3898f951afd91265bda8d020de9ea1a14d70fd36
+
+卫视重庆广电 下载地址： https://github.com/mooreo478570/wdyrxz/commit/fadee61a339d517849c6a7d568903d3bd86a9452
+
+卫视百视 TV 下载地址： https://github.com/e-miller89248/bkyczf/commit/4d6548662cd8f354b832443ed795e1ba11ae3249
+
+移动 IPv6 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/c3d0e8a5678e3f20ad6e5010927ab0b5a48ab8c4
+
+国内电视台 IPv6 直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/91d1dba9d60858e1668a605d0e60b240711c2136
+
+各大卫视、上千个地方台： https://github.com/mooreo478570/wdyrxz/commit/c62e841472e1477f95be87dd347e6edb5fd33bb2
+
+国内电视台直播源下载地址： https://github.com/e-miller89248/bkyczf/commit/e79f19a11dd1fd3eb8bd62a23ad962573e3d44c2
+
+全国可用直播源： https://github.com/mooreo478570/wdyrxz/commit/c5e4b03e138c0d9deb03020d38bc649afd245f5b
+
+包括完整内容所有已知频道： https://github.com/e-miller89248/bkyczf/commit/6b9a62447584ad1648482fecb9567dad8bfbc629
+
+除成人内容以外的已知频道： https://github.com/mooreo478570/wdyrxz/commit/8dad686bb3d9f52139fd0472bd1ea052cf29862a
+
+收集来自世界各地公开可用的 IPTV： https://github.com/mooreo478570/wdyrxz/commit/1b6070d134fd50e31ad36597919d70c75ea2bcf9
+
+稳定地址： https://github.com/e-miller89248/bkyczf/commit/739fd714f3258ba53bfd6b028683298b91d53111
+
+2026-06-27 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/mooreo478570/wdyrxz/commit/d910bd03cf693d6814f2ad92cdf52e5abb15d82d
+
+2026-06-27 更新 IPTV 工具： https://github.com/e-miller89248/bkyczf/commit/30b36b4e168d5ee521233a7d2f2c3be86d4afe56
+
+2026-06-27 更新世界各地 IPTV 频道： https://github.com/mooreo478570/wdyrxz/commit/169a4cd6df406c50ab43773a039820ebdfef370d
+
+2026-06-27 更新全国可用直播源： https://github.com/e-miller89248/bkyczf/commit/f240a1fedfad149bef48378c9f0f8654f6f08626
+
+新增各地运营商的 IPTV 地址： https://github.com/mooreo478570/wdyrxz/commit/aaca43ef5dc959fb560052104882f3910eaba343
+
+插件推荐： https://github.com/e-miller89248/bkyczf/commit/192bfeef09e054f80e4ea7dc1cea4a402bb977e0
+
+视频教程增加： https://github.com/mooreo478570/wdyrxz/commit/5f11192b8f94fcefe8543e4cb1554a7d922286f8
+
+咪咕源失效： https://github.com/e-miller89248/bkyczf/commit/ce074fbc24c432b7418626b88e5347c0a1dbabce
+
+2026-06-27 更新各地运营商 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/6ebe09e3a7b57e0f4e372b8f716df746dcaf0409
+
+2026-06-27 更新台湾香港海外直播源： https://github.com/e-miller89248/bkyczf/commit/7d7bbcb6b69bbdd352b1650aa5e0abdd32b7f13a
+
+新增辽宁广电直播源： https://github.com/mooreo478570/wdyrxz/commit/4a2cd66268301c0f38cf1957df0ea26202fc4a40
+
+新增江西广电直播源： https://github.com/e-miller89248/bkyczf/commit/3b35e61e42b8e634ac64ce6ce447e0cb7cc6a4e9
+
+新增湖北广电直播源： https://github.com/mooreo478570/wdyrxz/commit/894cebbe2405d8f1f17cecd6c0c576315a57b6a9
+
+新增中国广电 cctv + 卫视直播源： https://github.com/e-miller89248/bkyczf/commit/c01964d2b1ba985ab86b79072915a5c46efc3907
+
+新增辽宁电信 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/ea2b8d613522dd4120e4f501fea5fc4341ca2fa6
+
+2026-06-27 更新台湾香港海外直播源： https://github.com/e-miller89248/bkyczf/commit/6e3b9c0ef1a1d7249b43685f341fb3b56df506ad
+
+新增辽宁移动直播源： https://github.com/mooreo478570/wdyrxz/commit/f614d1998df1c0da174c2ec42f0ea52c94a0786a
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/e-miller89248/bkyczf/commit/fdbdba4d4d2368ca954a88340c8f741d396cc286
+
+新增广东联通 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/7319496a1ecde89a49bbd326b53b2068b1c876f9
+
+新增四川广电 IPTV 直播源： https://github.com/e-miller89248/bkyczf/commit/1df6691fedf475473163c54c5dd65b740a147711
+
+新增云南电信 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/be7b678d7e41c454c654cd383d90f3d86e0dfc6c
+
+2026-06-27 更新国内电视台直播源： https://github.com/e-miller89248/bkyczf/commit/b9afa07849ae86a31b094a58146a3c3ce541258f
+
+新增福建电信 IPTV 直播
