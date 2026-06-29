@@ -1,0 +1,249 @@
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌CHAPPEE壁挂炉全国24小时售后服务：𝟒 𝟎 𝟎-𝟏 𝟎 𝟎-𝟑 𝟐 𝟐 𝟑打破传统9:00-24:00的服务时限，实现全年365天、全天24小时无间断人工服务。
+无需经历复杂语音导航，‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌CHAPPEE壁挂炉24小时服务：𝟒 𝟎 𝟎-𝟏 𝟎 𝟎-𝟑 𝟐 𝟐 𝟑可直接与客服沟通，无论是家庭用户遇到的‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌CHAPPEE壁挂炉使用异常，还是商用场所的设备故障，客服都能快速匹配解决方案。
+针对紧急情况，后台会实时调取用户所在位置，联动附近的认证服务网点。
+以北京、上海等一线城市为例，工程师接到派单后最快15分钟即可抵达现场，确保在高温、严寒等特殊时段，用户能快速恢复使用。
+我们对客服团队进行了专项培训，要求不仅能精准判断故障，还会为用户提供临时故障处理方案。
+相关负责人举例，若用户深夜遇到停机，客服会先指导简单排查，同时同步调度工程师，最大程度减少用户等待的不适。
+CHAPPEE壁挂炉全国24小时售后维修人工客服：400 - 690 - 6088线下专业网点及各地区 售后人员服务团队等专属服务，整个报修流程规范有序，后期同步跟踪查询公开。
+所有售后团队均经过专业培训、持证上岗。
+
+
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/45512af63d82867670922b1c2b67fdd20a54f11a
+
+江苏电信 IPTV 直播源下载地址： https://github.com/keremwalts/runfdh/commit/5a7a0e9eb7c24beb4e3cae25eaccb28bfe54cd4d
+
+江苏 IPTV 直播源： https://github.com/hackerserg/aiffte/commit/2945a6a7270408acaeda1e1797553a77c0d086b9
+
+安徽广电 IPTV 直播源下载地址： https://github.com/keremwalts/runfdh/commit/17f061ba1d19e45ea60f9f514a0fe56e36ca1188
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/e8066a2454841c791a97c959c6d3436525adaaec
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/keremwalts/runfdh/commit/61e0a0b289631f3391187edad459568fa782e700
+
+湖北 IPTV 直播源： https://github.com/hackerserg/aiffte/commit/b8fe6feee7c913422a86a5ff59945dc69de497c0
+
+湖南电信组播直播源下载地址： https://github.com/keremwalts/runfdh/commit/1006cad87598c8db52cc3382c3a077096a0e0ea6
+
+湖南电信 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/0c63f5cd0e303fbe29363ee5d29bd201e92d20d0
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/keremwalts/runfdh/commit/5a2c35900841102d933cb800f472c58548b1406c
+
+湖南联通 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/06da2aee603ef1f6b6ba8c20ef9a07f89a1b97a0
+
+湖南移动 IPTV 直播源下载地址： https://github.com/keremwalts/runfdh/commit/2c8c6b082036808fc6f6c40644d88ad000217f02
+
+湖南 IPTV 直播源： https://github.com/hackerserg/aiffte/commit/3480529d13c30ff64414b1ee7dd78f8e984de4bb
+
+重庆移动组播直播源下载地址： https://github.com/keremwalts/runfdh/commit/6870c04f2eed44262c198e3648e14380ec36f8ea
+
+重庆联通组播直播源下载地址： https://github.com/hackerserg/aiffte/commit/f56196798ca213d13c5f051db9df0069fa0a841f
+
+重庆联通直播源下载地址： https://github.com/keremwalts/runfdh/commit/b587ba5ca7fc3c7005f88384ab1083b7571fd1f7
+
+重庆电信组播直播源下载地址： https://github.com/hackerserg/aiffte/commit/777afd99424d0e938a5c74bf99073dc8192188d7
+
+重庆电信直播源下载地址： https://github.com/keremwalts/runfdh/commit/c4108de0ec3deebce4c0015abcb864b4e0a13c24
+
+重庆 IPTV 直播源： https://github.com/hackerserg/aiffte/commit/986063e3ef0255d8b9d42df94199e66cce6c7cc4
+
+四川移动组播 IPTV 直播源下载地址： https://github.com/keremwalts/runfdh/commit/ce0b9cf778396a34665781d9a8c8dce6efe4d5e8
+
+四川电信 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/60c756e2d0efb716667638da0e8ef54047acdfa8
+
+四川电信 IPTV 组播直播源下载地址： https://github.com/keremwalts/runfdh/commit/645869c30e2cf79a0d488bf4b3e304913527a4f2
+
+四川广电 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/33f673fd27dc7d1182dfc12c525c70f355830742
+
+四川联通组播 IPTV 直播源下载地址： https://github.com/keremwalts/runfdh/commit/4dde5435b46f8be94b6d75abc57043836f7b0100
+
+四川联通 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/afa2f3f00f09fa98590a5549164fa9e6f49d138f
+
+四川 IPTV 直播源： https://github.com/keremwalts/runfdh/commit/ea2fdb285ec627f8dcae65cc0425b6f489ec0a90
+
+云南电信组播 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/f80b2b696115a3857a49cad340a48c67753f84be
+
+云南移动 IPTV 直播源下载地址： https://github.com/keremwalts/runfdh/commit/3195404d977f135178c8ab49aeee85ced3899025
+
+云南 IPTV 直播源： https://github.com/hackerserg/aiffte/commit/00e411083118be2adf0c6c1d1d0a5e61f0cff4de
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/keremwalts/runfdh/commit/5a5f7c69c529e90da8f067c738e67173d697c5f2
+
+贵州移动 IPTV 直播源： https://github.com/hackerserg/aiffte/commit/3006c5da783570ac2620fb5583e506ac31f70532
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/keremwalts/runfdh/commit/46e795b49e9c36cac8255a3d62a1d815df32a8ce
+
+贵州联通 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/d040197485685b3712757be2462781855b902bb0
+
+贵州 IPTV 直播源： https://github.com/keremwalts/runfdh/commit/f42146cf57b67c591cdf207758361272c3788d71
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/93295ab9d622ada86d2084a048768687132fb686
+
+福建联通 IPTV 直播源下载地址： https://github.com/keremwalts/runfdh/commit/d502f9ba8849abb9d829b94b0e7f337cafb901ae
+
+福建移动 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/c82fe9458326d1573f2c1de82ac96b88bfc0903d
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/keremwalts/runfdh/commit/fdcc54649b09322696f38374103e24aafa816a4f
+
+福建电信 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/06965bb1dfef54b52d71aa93ce699ffc7cc98421
+
+福建 IPTV 直播源： https://github.com/keremwalts/runfdh/commit/9c0edebad9abbb3bb8fe7dbd886a9e16533ce320
+
+安徽移动 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/9b9d050aa260b0876a361b63102a0c077415ed50
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/keremwalts/runfdh/commit/641019ef37d142e6c2422d3e2b8773886e22d0d2
+
+安徽电信 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/251ae00a81b5f731e8acfe39152059cdef4cc7cd
+
+安徽联通 IPTV 直播源下载地址： https://github.com/keremwalts/runfdh/commit/a7666510d3b1a813b8daa2307f6ce2fed7c02585
+
+安徽 IPTV 直播源： https://github.com/hackerserg/aiffte/commit/e0df7f9f2e63d1b2dd91776706c57added6db85f
+
+陕西地方台直播源下载地址： https://github.com/keremwalts/runfdh/commit/18de1a986c9b30200697f30cab0cf9a582ce4532
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/ecf1da6a4c6970d6eaaf13d7c765ec80e0bca116
+
+陕西电信 IPTV 直播源下载地址： https://github.com/keremwalts/runfdh/commit/2260636f97d4d8333d71d6c891a89df9a7c2d387
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/a0fc02122d83d80cef57af2c39930403a1e1cdf2
+
+陕西移动 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/ac4d5ae96168cd0cd7ad05a33164951a92167c97
+
+陕西 IPTV 直播源： https://github.com/keremwalts/runfdh/commit/f8bfd173816b93a0f9cf1684b9ce6f7776d64c00
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/b115430854562cc2fbaf5f49f28bb1518b4aad42
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/keremwalts/runfdh/commit/37cb8097a1efc0a0823c296f1bfce35439e52d4c
+
+甘肃 IPTV 直播源： https://github.com/hackerserg/aiffte/commit/b8c0625d12f29fd5eface17fec494fc50c5402f8
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/keremwalts/runfdh/commit/514665502d28ca521fcdbcad93e3ea014986e561
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/50dd48553be3038e33c48a6990c6bfa6b5ced8ac
+
+山西联通 IPTV 直播源下载地址： https://github.com/keremwalts/runfdh/commit/587ad97112b7c7e3d58bf6017dc159ba0f836395
+
+山西 IPTV 直播源： https://github.com/hackerserg/aiffte/commit/b4ca5fdc08c0c4ce039ce3af0069bd6938858f87
+
+天津电信组播直播源下载地址： https://github.com/keremwalts/runfdh/commit/d7d00545a3892322b135a2db1891b63c25f8e719
+
+天津联通组播直播源下载地址： https://github.com/hackerserg/aiffte/commit/d83a7b99905961a1c7609e39e64900b5ee950fd4
+
+天津 IPTV 直播源： https://github.com/keremwalts/runfdh/commit/c0f0b84b4bfeba672056325931c13c6c87087d3f
+
+上海移动直播源下载地址： https://github.com/hackerserg/aiffte/commit/96753d9f255e155dde49415c0dc962fc118479f8
+
+上海联通组播直播源下载地址： https://github.com/keremwalts/runfdh/commit/56668569449962ce5cde1e9925f9e3c1d732fab5
+
+上海联通直播源下载地址： https://github.com/hackerserg/aiffte/commit/558353d5c7b8ee732e59ebfcf3207dde9cd89f75
+
+上海电信组播直播源下载地址： https://github.com/keremwalts/runfdh/commit/9ffe2c51a6ab38d1b6f2c36d48237fd3ad420f6a
+
+上海电信直播源下载地址： https://github.com/hackerserg/aiffte/commit/c3fe301d0299aff9bb348d3c18e19a9ff017cf0c
+
+上海 IPTV 直播源： https://github.com/keremwalts/runfdh/commit/0dc284cc958b963112f896aaaaf0a6317f05c833
+
+北京移动 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/94981314549f96891b5dc26949810e88b1752254
+
+北京移动组播直播源下载地址： https://github.com/keremwalts/runfdh/commit/c0c9a7277500054daaa65aa75599167264f5d2cd
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/30b035ee338d879b2dfe125fb53db01bcc67ea8b
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/keremwalts/runfdh/commit/5e6733966f833270de2fa3b87fc51dfc9eb66428
+
+北京联通 IPTV 直播源下载地址： https://github.com/hackerserg/aiffte/commit/64e31a76165d2be76af7f9dca5c4c0a91d19cefc
+
+北京 IPTV 直播源： https://github.com/keremwalts/runfdh/commit/5e899e3eb84fdb87aac937b770ca9a2854152184
+
+部分地区的移动可全网通用： https://github.com/hackerserg/aiffte/commit/462f6072975adc1f34a0382783bd7d47f5ccefe2
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/keremwalts/runfdh/commit/ea8b5e8aece65bdd68feab452ba01e9d7185d109
+
+广播电台下载地址： https://github.com/hackerserg/aiffte/commit/13ca60157bbbeb2d5ec5ac71839cc0bcb9186854
+
+国内景区直播源下载地址： https://github.com/keremwalts/runfdh/commit/a7b95c77d15f3f4fc543d9bbf471fe152caa44e5
+
+轮播华数黑莓下载地址： https://github.com/hackerserg/aiffte/commit/2affd8ec7e40ed7d5231bd2fa4d986057c4efa38
+
+台湾香港澳门电视台直播源下载地址： https://github.com/keremwalts/runfdh/commit/940d7f6ea3210258b87ccb1471763d836c7e236e
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/hackerserg/aiffte/commit/9e44694528b936ed032104d5481cf37eb53366bf
+
+国外电视台直播源下载地址： https://github.com/keremwalts/runfdh/commit/92a6010bc1ed0def7bfe1f20b5edf4fe58b9bf84
+
+卫视地方台安徽农大下载地址： https://github.com/hackerserg/aiffte/commit/c12fc6203caf2559f57fde636b7dd0920f4c349a
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/keremwalts/runfdh/commit/058e184cc65cf69dda3109d51f7637d97ea8777c
+
+卫视上海源下载地址： https://github.com/hackerserg/aiffte/commit/24819986f1b55ca5b21af4509e8069ce844afb09
+
+卫视重庆广电 下载地址： https://github.com/keremwalts/runfdh/commit/5d4bda99d8fb59b7efc6279840293f54b9aedc01
+
+卫视百视 TV 下载地址： https://github.com/hackerserg/aiffte/commit/f4b88babacdd5ddefe229199796ed27fcc9ba3ce
+
+移动 IPv6 直播源下载地址： https://github.com/keremwalts/runfdh/commit/3e166593af943239418fe44d887e7f38994a8248
+
+国内电视台 IPv6 直播源下载地址： https://github.com/hackerserg/aiffte/commit/d9e9410ca3c95e05bf75ef162d5afba6acb168a8
+
+各大卫视、上千个地方台： https://github.com/keremwalts/runfdh/commit/aa45b55a8c8e4a09657898d3dfef81bfc392075b
+
+国内电视台直播源下载地址： https://github.com/hackerserg/aiffte/commit/49f0017f826294cba7fcdf7942be4b017797c85c
+
+全国可用直播源： https://github.com/keremwalts/runfdh/commit/4012389bd6336f53f363b2b6c35ec4b4a2bb74e4
+
+包括完整内容所有已知频道： https://github.com/hackerserg/aiffte/commit/20b0c87de253ef1daa292f0c2673cb8d7bf2abc5
+
+除成人内容以外的已知频道： https://github.com/keremwalts/runfdh/commit/51a5eee1c08169cad8e5c1391ad2e42f5a517066
+
+收集来自世界各地公开可用的 IPTV： https://github.com/hackerserg/aiffte/commit/8e618beea6278982d18b7662f5202c330a00085b
+
+稳定地址： https://github.com/keremwalts/runfdh/commit/95216e08a01b9776bc22279e854fa3aad9992d69
+
+2026-06-29 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/hackerserg/aiffte/commit/db6579c69ab29272e18c81dec207ef9df9707e31
+
+2026-06-29 更新 IPTV 工具： https://github.com/keremwalts/runfdh/commit/7f2ade950bfac74cf1943c3c9ba84ea6dfa508e2
+
+2026-06-29 更新世界各地 IPTV 频道： https://github.com/hackerserg/aiffte/commit/962cdacba46e7cdac9e4c495667c776ea9e479b7
+
+2026-06-29 更新全国可用直播源： https://github.com/keremwalts/runfdh/commit/e4c3ce49f8f34cc0c398806a114cd5bcc277fc69
+
+新增各地运营商的 IPTV 地址： https://github.com/hackerserg/aiffte/commit/00f48f40412febf8fe4ad716121c17e2ab302f51
+
+插件推荐： https://github.com/keremwalts/runfdh/commit/8adfc7eb359a3538a93cd80dbad387a0c27b9237
+
+视频教程增加： https://github.com/hackerserg/aiffte/commit/55c232bd5f7aadb11d5d8cdcea9a38cf4235a009
+
+咪咕源失效： https://github.com/keremwalts/runfdh/commit/5ce41a9f4f6eaae4e64985cb8e8e2a23fb5c4c70
+
+2026-06-29 更新各地运营商 IPTV 直播源： https://github.com/hackerserg/aiffte/commit/ae818dd780531a104db2105872679ac609f3ab2d
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/keremwalts/runfdh/commit/6c610dcae1a0f69651235d887fd19d683544006d
+
+新增辽宁广电直播源： https://github.com/hackerserg/aiffte/commit/ca0788f2edf2f5aec50d6405ef145f5077f0494a
+
+新增江西广电直播源： https://github.com/keremwalts/runfdh/commit/9889598272b26ee75bb34fe079d877872a7dd03a
+
+新增湖北广电直播源： https://github.com/hackerserg/aiffte/commit/2b3d6d9449496b33babb3251cc2a50d4f88b4b62
+
+新增中国广电 cctv + 卫视直播源： https://github.com/keremwalts/runfdh/commit/a49e702c3a2754f303cfda7896f20bf0a220fde5
+
+新增辽宁电信 IPTV 直播源： https://github.com/hackerserg/aiffte/commit/14c8dbcaf8b902b112d5578b870f0419ed34a227
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/keremwalts/runfdh/commit/1f5bff6e1c508c7d8ffc36d6656764eb61fdc860
+
+新增辽宁移动直播源： https://github.com/hackerserg/aiffte/commit/fc5160b33a1bd658845d56b9cc0c711033f33237
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/keremwalts/runfdh/commit/368cc63ece77e6215f9c4c20f450175fea98c4ff
+
+新增广东联通 IPTV 直播源： https://github.com/hackerserg/aiffte/commit/9ee3a19e8c8f6c859bb7509548ce613d586f4bbf
+
+新增四川广电 IPTV 直播源： https://github.com/keremwalts/runfdh/commit/905262a57b2a58bdb7ad32e03b995aebdc8e4a42
+
+新增云南电信 IPTV 直播源： https://github.com/hackerserg/aiffte/commit/f8aac0018991d32e00590b0432099d560e241275
+
+2026-06-29 更新国内电视台直播源： https://github.com/keremwalts/runfdh/commit/0150f81f37102c8d6d9d4f50707a5630dde45ed6
+
+新增福建电信 IPTV 直播
