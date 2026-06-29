@@ -1,0 +1,249 @@
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌志高（CHIGO）集成灶全国24小时售后服务：𝟒 𝟎 𝟎-𝟏 𝟎 𝟎-𝟑 𝟐 𝟐 𝟑打破传统9:00-24:00的服务时限，实现全年365天、全天24小时无间断人工服务。
+无需经历复杂语音导航，‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌志高（CHIGO）集成灶24小时服务：𝟒 𝟎 𝟎-𝟏 𝟎 𝟎-𝟑 𝟐 𝟐 𝟑可直接与客服沟通，无论是家庭用户遇到的‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌志高（CHIGO）集成灶使用异常，还是商用场所的设备故障，客服都能快速匹配解决方案。
+针对紧急情况，后台会实时调取用户所在位置，联动附近的认证服务网点。
+以北京、上海等一线城市为例，工程师接到派单后最快15分钟即可抵达现场，确保在高温、严寒等特殊时段，用户能快速恢复使用。
+我们对客服团队进行了专项培训，要求不仅能精准判断故障，还会为用户提供临时故障处理方案。
+相关负责人举例，若用户深夜遇到停机，客服会先指导简单排查，同时同步调度工程师，最大程度减少用户等待的不适。
+志高（CHIGO）集成灶全国24小时售后维修人工客服：400 - 690 - 6088线下专业网点及各地区 售后人员服务团队等专属服务，整个报修流程规范有序，后期同步跟踪查询公开。
+所有售后团队均经过专业培训、持证上岗。
+
+
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/c45d546a55065ad3c12d1a687bab350de441e9a5
+
+江苏电信 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/07d2b078d9dd2b06b4c80e1ad65fd11d3ba58187
+
+江苏 IPTV 直播源： https://github.com/pwcoyog/okegfh/commit/d7ee5ef731bc2eb7d6ea1bb3543a0df2bb7ae687
+
+安徽广电 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/3f47e90a6697eec4ba29a77b0adb083009ba8430
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/c039db82ca9149fe8a8027aa96dfe31ffad46d4d
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/8cc2deb52d8df9d1cfc9e92fe2f62c8a26b8f94d
+
+湖北 IPTV 直播源： https://github.com/pwcoyog/okegfh/commit/1d0ef7c6e07518093ef9f01497cfe4fa335967c4
+
+湖南电信组播直播源下载地址： https://github.com/wanghojing/emsjkz/commit/b79c9c53aafb7278136efafed04d1b2a61c7ffa1
+
+湖南电信 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/e50a32ea43137fa23cd3f29b8292eb381cb3743b
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/d797b813b6bd44b47502f8537bb40acbed858626
+
+湖南联通 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/6edd976867916b45540de47075dba974abd3cdac
+
+湖南移动 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/f9a1e3c0508125490e86ba87f721b85e79c5bd58
+
+湖南 IPTV 直播源： https://github.com/pwcoyog/okegfh/commit/904c35f3f55d2e44bfe725e09f5ea4f4ce5e36d5
+
+重庆移动组播直播源下载地址： https://github.com/wanghojing/emsjkz/commit/75afd629cb05b9fbbd4d0e77109e20aa7e1b1305
+
+重庆联通组播直播源下载地址： https://github.com/pwcoyog/okegfh/commit/cf8429db15966799e905720e50e9c7788eab2121
+
+重庆联通直播源下载地址： https://github.com/wanghojing/emsjkz/commit/81efe521264dc9830c3c05b682d7e07c367b60f8
+
+重庆电信组播直播源下载地址： https://github.com/pwcoyog/okegfh/commit/75dbd1d7ae7435737dcd7ec977cd4b3ddd666ab2
+
+重庆电信直播源下载地址： https://github.com/wanghojing/emsjkz/commit/25fc76c8e7fae0d99aacd629f6f7eb744b9ef1cb
+
+重庆 IPTV 直播源： https://github.com/pwcoyog/okegfh/commit/3e08906bb2aa6ba9391cf13c9e9c1de8a04124e2
+
+四川移动组播 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/9c3e87abba05a7b83bfa03af6f512e899b551a8a
+
+四川电信 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/5f7042d5e0f562936b7f4ed2c1fdd702f094a90e
+
+四川电信 IPTV 组播直播源下载地址： https://github.com/wanghojing/emsjkz/commit/7e2071f3209ba7579845e6ef813985f9c9597fe2
+
+四川广电 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/c90ba8c7b2c554ecfd92babeca48ce0552797e3d
+
+四川联通组播 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/85665960728bb2a1ecdf99a59a91c5613f42ea8c
+
+四川联通 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/25aa3eec9d13b48b45e9663650b67ecbd3255758
+
+四川 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/25bae181783612d84e3786b172c1671ac8cf8f6c
+
+云南电信组播 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/02ef5e34c7bbe697ee68e14c07e20f6c5a5c0342
+
+云南移动 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/0b2de9106b53b7e4fae0685d6b0dcc283a7d66e1
+
+云南 IPTV 直播源： https://github.com/pwcoyog/okegfh/commit/d81e14b364efb50f0dc06cb4f7ed8f0ff8323cb7
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/2ee3347c3df2c1f036ec5477828920ae5a7439ea
+
+贵州移动 IPTV 直播源： https://github.com/pwcoyog/okegfh/commit/1ba400e8c3d7ec74e12c5be4852d9a8adf98fe83
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/672658ba25c1d14ec66a7a011a21f15e83f227f3
+
+贵州联通 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/6939dcc5e2295c76d4e0395ba0c895ea001d2fe3
+
+贵州 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/7114ebbc8034051b79a0e0dba51d8cd329626924
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/fcfe619b03039a3b030aadbaa623087952aa2fea
+
+福建联通 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/7547d639d5d0e6f62a82207912c1c0074a2fbc4e
+
+福建移动 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/54218b0e1ef59fc4b9dc8931f0e00c25b9521700
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/e4bbfbf960a0ab2069e72bc9a35f72cc647db699
+
+福建电信 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/43952b6eee175f0c8eba388fef3000d53a1255c4
+
+福建 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/99384c6d944b681d9d284fdda31411fe0018747c
+
+安徽移动 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/5cecc28528e525d707f06c6a9ec9f07e2af2079f
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/wanghojing/emsjkz/commit/4ab3c39714e6c330e4d897bad7f39753528f61d5
+
+安徽电信 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/5dccf186d08e5ad7eed5083551597fdeab07f07f
+
+安徽联通 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/c3393807eecdcf6c0b5d6d05aa848c74b953a745
+
+安徽 IPTV 直播源： https://github.com/pwcoyog/okegfh/commit/86e337b8c7a70564eacb7ff2608d206f5580fe9c
+
+陕西地方台直播源下载地址： https://github.com/wanghojing/emsjkz/commit/2a4b977abb813d82d32b724499d2ae1764608264
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/cbb9ba046c93c7cf9fe0d649d7c17378b7eb280c
+
+陕西电信 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/183dd4fbd633cc929df23c543a7f000831bec99b
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/102f718154ef1094e6452390c0564e8180c8b942
+
+陕西移动 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/ae17c690ea99f3e2bcb6c6602ceb44cbcb0305b1
+
+陕西 IPTV 直播源： https://github.com/pwcoyog/okegfh/commit/e939483040f33e6bccbe54f1dce89e76c8f41f04
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/8f7c2ccf42aba529b599c596393b881762210430
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/06e80ed35774252fb904e48e465438922f794007
+
+甘肃 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/e513c5679c29bd262aaa57778332ff83b8b40d97
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/a2e2107dd355322889a97449f5033d930c6bd7cb
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/d7e54851d95f4ae9d584e8b6d4dff069e6a4be0a
+
+山西联通 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/f5f33b43b5b08817a62f5d7608b876445dc9a7c8
+
+山西 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/ea0e13a38c544e0b17eed697a8ba5cc3075319b6
+
+天津电信组播直播源下载地址： https://github.com/pwcoyog/okegfh/commit/cf3b6c0ed07889cb6271f2a9a9272afd3d4a1772
+
+天津联通组播直播源下载地址： https://github.com/wanghojing/emsjkz/commit/8e11e011a85253949e191c504da2c46cb6d85a50
+
+天津 IPTV 直播源： https://github.com/pwcoyog/okegfh/commit/f8e04d35e0c2a9b0024e49e889aeb21670e1df7d
+
+上海移动直播源下载地址： https://github.com/wanghojing/emsjkz/commit/41e840acc886b951dd46c2f61ebe6ab139ccc594
+
+上海联通组播直播源下载地址： https://github.com/pwcoyog/okegfh/commit/b717e8ddaf903c6040fe53f7b853884ec4b1f748
+
+上海联通直播源下载地址： https://github.com/wanghojing/emsjkz/commit/8cc8639ac76716242744599b45175e1bae0ec113
+
+上海电信组播直播源下载地址： https://github.com/pwcoyog/okegfh/commit/172aa46c48771cb4ffcb66dbcdcb92310d5b7b28
+
+上海电信直播源下载地址： https://github.com/wanghojing/emsjkz/commit/7e254ca276b2bc7cc51713ebfdf0dbbb92bae1f6
+
+上海 IPTV 直播源： https://github.com/pwcoyog/okegfh/commit/7cc8ecc60c8810af77c910ccf60401bf6180f5ad
+
+北京移动 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/1ea57a277758e99ca9d416d6a1609e637447ad6b
+
+北京移动组播直播源下载地址： https://github.com/pwcoyog/okegfh/commit/fe5019c848d468ae34448082bda42df26cbdba40
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/de5223f98b596be9c4e085b78814b40bfe02bd61
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/a7b75eb93a06261883513cec8003610a30d9ea1a
+
+北京联通 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/0fbd792dce3c663a2cff98abdd20bfc70a7128dc
+
+北京 IPTV 直播源： https://github.com/pwcoyog/okegfh/commit/196c49710f2ebb5ba62ced599604e5d57de66bbc
+
+部分地区的移动可全网通用： https://github.com/wanghojing/emsjkz/commit/611027ed543485ea96e03810e8845d0bd86d2b7e
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/pwcoyog/okegfh/commit/7c218ec8b90034d8b8802b3e3b3ff02ccff9b80f
+
+广播电台下载地址： https://github.com/wanghojing/emsjkz/commit/56a253f266d41302f7a1c78b775d9f1940cf67c0
+
+国内景区直播源下载地址： https://github.com/pwcoyog/okegfh/commit/4a053f01b938b80a696a33d1e5940699cdadc324
+
+轮播华数黑莓下载地址： https://github.com/wanghojing/emsjkz/commit/0c00493af573334c180ebe7b246755700dc049d1
+
+台湾香港澳门电视台直播源下载地址： https://github.com/pwcoyog/okegfh/commit/83dcbb4b627c56853bd93029b7891c2209353775
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/wanghojing/emsjkz/commit/b063c49c0e943a8166ce872050f6259ecfb2f5f8
+
+国外电视台直播源下载地址： https://github.com/pwcoyog/okegfh/commit/a1200e2f4b3206cd3964474c8eecfcc0ce7be38b
+
+卫视地方台安徽农大下载地址： https://github.com/wanghojing/emsjkz/commit/1cd2356e5b6d672efa8bcfff492ff5988daa0889
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/pwcoyog/okegfh/commit/04b9b17a9d5ef4cbaf116c7b98c80e2e359cc068
+
+卫视上海源下载地址： https://github.com/wanghojing/emsjkz/commit/be12c8b487fd01ab75a0fdc46615315ee92cfdfd
+
+卫视重庆广电 下载地址： https://github.com/pwcoyog/okegfh/commit/20975fff6d2afa2ba21ca5e084406c7504e5a955
+
+卫视百视 TV 下载地址： https://github.com/wanghojing/emsjkz/commit/e32eb65e62a456d6b42b94b51d226a05daa06bb4
+
+移动 IPv6 直播源下载地址： https://github.com/pwcoyog/okegfh/commit/f5d38e60c9badf738a22ef6efd5f8928b462f39d
+
+国内电视台 IPv6 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/b2696c1eb56c7daeeaa5dc7902f5a438787dc87f
+
+各大卫视、上千个地方台： https://github.com/pwcoyog/okegfh/commit/c51215f6666aaf974596d04ce40f92a6f1903da4
+
+国内电视台直播源下载地址： https://github.com/wanghojing/emsjkz/commit/3b8e1757a2f1e545f7e6be843934877835e37807
+
+全国可用直播源： https://github.com/pwcoyog/okegfh/commit/8c12cdc5374bc1c7936bb0e05e65e1f6858f81f8
+
+包括完整内容所有已知频道： https://github.com/wanghojing/emsjkz/commit/87b832e228fdb0b5fe5e353b6ebb2604b739ca5a
+
+除成人内容以外的已知频道： https://github.com/pwcoyog/okegfh/commit/0b5a30477aa44f256ef46b511d8eed9ebd48faf7
+
+收集来自世界各地公开可用的 IPTV： https://github.com/wanghojing/emsjkz/commit/29d4b2400d571af4a5d3f808232cd3cb42e0273a
+
+稳定地址： https://github.com/pwcoyog/okegfh/commit/978035e7f22ab43ec0cefa5ecf0d3caa0498a16c
+
+2026-06-29 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/wanghojing/emsjkz/commit/8eef0058fbc68da7e48c15014b575f521d5303d5
+
+2026-06-29 更新 IPTV 工具： https://github.com/pwcoyog/okegfh/commit/0896de323c5f0841e3ae1c68b6ecfa949921744f
+
+2026-06-29 更新世界各地 IPTV 频道： https://github.com/wanghojing/emsjkz/commit/27e45b9538bb2b840865de9827e61f80e460f50b
+
+2026-06-29 更新全国可用直播源： https://github.com/pwcoyog/okegfh/commit/3b59a9f626799e1770713481ded8d2b88b9c3d32
+
+新增各地运营商的 IPTV 地址： https://github.com/wanghojing/emsjkz/commit/542aee382861817d7ff589cc3fe9691fb806458e
+
+插件推荐： https://github.com/pwcoyog/okegfh/commit/155752db7b23b113e00b53ac875b5d4781d0ae09
+
+视频教程增加： https://github.com/wanghojing/emsjkz/commit/103641577094d3dfe9b5bdc1bad70c3531cc7788
+
+咪咕源失效： https://github.com/pwcoyog/okegfh/commit/1642c2ece1de561b6d47794f22e696569a4a10a0
+
+2026-06-29 更新各地运营商 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/636a9d488ca9ea9f89a762397c91b5ddbfb0c768
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/pwcoyog/okegfh/commit/4ad663f2fabe1f8ac34b4276ff55bc8ce6bcb6bf
+
+新增辽宁广电直播源： https://github.com/pwcoyog/okegfh/commit/288568f51532cfc3ba16ca73135ac09bf6f455c7
+
+新增江西广电直播源： https://github.com/wanghojing/emsjkz/commit/cf577724aab55cbf032481d7d1ee45f06b07d12a
+
+新增湖北广电直播源： https://github.com/pwcoyog/okegfh/commit/409c66ffc3427b78f0833a10422fcd5bbd44f12e
+
+新增中国广电 cctv + 卫视直播源： https://github.com/wanghojing/emsjkz/commit/1d322429c3cf6e9e475d1f6d2bebf8f0a07b4733
+
+新增辽宁电信 IPTV 直播源： https://github.com/pwcoyog/okegfh/commit/8d336abf4dbf8eea7959219984c8cbb5eaaf390e
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/wanghojing/emsjkz/commit/b265438a2f816e3daf9ea535a9f2ff2597b89e86
+
+新增辽宁移动直播源： https://github.com/pwcoyog/okegfh/commit/14580cc6eda8f730cb39b9bd88648a41f0e23990
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/35ab5532d8201af2d6d4546a51c90f998a1e6c6b
+
+新增广东联通 IPTV 直播源： https://github.com/pwcoyog/okegfh/commit/0862f5e083d4d99113c5cc3a95b3d833fc9c34bd
+
+新增四川广电 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/fd9c1fd7d0a7ad1462773cb479ed178a1fe90fd3
+
+新增云南电信 IPTV 直播源： https://github.com/pwcoyog/okegfh/commit/9f19c10c93b9639d002c240b4a0b918d9d3a138f
+
+2026-06-29 更新国内电视台直播源： https://github.com/wanghojing/emsjkz/commit/1ed8805944de850807e7485913d30b683d14d58e
+
+新增福建电信 IPTV 直播
