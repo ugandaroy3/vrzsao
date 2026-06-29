@@ -1,0 +1,241 @@
+OD油烟机全国售后服务点热线号码:400 - 690 - 6088OD油烟机的维修电话可能因地区和具体服务内容而有所不同，但通常，用户可以通过拨打OD油烟机的全国统一客服热线400 - 690 - 6088来获取维修服务。以下是一些可供参考的电话号码： OD油烟机全国统一客服热线：400 - 690 - 6088OD油烟机另一客服热线：400 - 690 - 6088这些电话号码通常提供24小时服务，用户可以随时拨打咨询或报修。在拨打电话时，建议用户准备好OD油烟机的型号、故障描述以及详细的联系方式，以便客服人员能够更快地为用户提供帮助。 此外，OD油烟机在各地区也可能设有售后服务点电话，用户可以根据自己所在的城市，查找并拨打相应的售后服务点电话。这些电话号码可能会因地区而异，并且可能会有所变动，因此建议用户在拨打前先进行确认。 总的来说，如果您需要OD油烟机的维修服务，可以直接拨打上述全国统一客服热线或所在地区的售后服务点电话，以获取及时、专业的帮助。
+
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/40ab835430ab0b3b62d1b8923e01e328b2d89f26
+
+江苏电信 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/440eb3ced639f9fd5fae19abacb3d5a810272d24
+
+江苏 IPTV 直播源： https://github.com/mrunayuk/vsbqec/commit/a8d14deba67c182bf290bcde6bfe325e78b0a3b9
+
+安徽广电 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/2140d71dac8dfc16a14476cdbdf940056aaf6509
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/482067533f467b29b7d4ff6f68ef4c7e28136e9b
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/e6fc948e6f186ff1bb94fba544591624ee831aee
+
+湖北 IPTV 直播源： https://github.com/mrunayuk/vsbqec/commit/c397704f3fa2743e3d58e24ca8149425f4ee9a29
+
+湖南电信组播直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/79bcb37ea8c64bd64afdd95197edebb48fa82ec9
+
+湖南电信 IPTV 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/386d063e6189e542a13a93afa7b234463edd977a
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/69038656c4bcbbc28cc134c003195a1963756843
+
+湖南联通 IPTV 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/df07e94597c3f3e1aa5306c6d35c2cfca189ff65
+
+湖南移动 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/5d7abe81d0e0374dd315dbbb0b1f49cc42a38d70
+
+湖南 IPTV 直播源： https://github.com/mrunayuk/vsbqec/commit/06aa45637e4d8ada0c5b02243ddea052b28c0ede
+
+重庆移动组播直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/963951a56faba8d0364b6a92c23d293aba621341
+
+重庆联通组播直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/d676629e2fd581aeeb82fdcc8062bf28a50b77e2
+
+重庆联通直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/4ca01421a54a968f5bd3f96706d4a42a4d1c91ff
+
+重庆电信组播直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/c357ca8a33a37d66f708fbeed223127540df99db
+
+重庆电信直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/65459863ca35556740cc44386fd006b33cfe089f
+
+重庆 IPTV 直播源： https://github.com/mrunayuk/vsbqec/commit/b9caf538d11bf704299580e3169391c8ab510180
+
+四川移动组播 IPTV 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/7f39fbf351d899aa6875d283dc8beff22c5468b8
+
+四川电信 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/a0d0b648eebc95873f8caa4a09b77b47a33680eb
+
+四川电信 IPTV 组播直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/19ebd6af765f1034ae2c000b9bf91f8f68e2b686
+
+四川广电 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/f3fc72e455815bb09891dbeb5316992cce8cdf75
+
+四川联通组播 IPTV 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/14b01a9f192bf35f7ced86717da039a88cdd8ecf
+
+四川联通 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/86660b22f4516997f37393671059d2e501a036b8
+
+四川 IPTV 直播源： https://github.com/mrunayuk/vsbqec/commit/99065236a6a8f0c861a69f1e3adce099692d3815
+
+云南电信组播 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/0d7c80f9f6aedb645a47744d051d644fc757a10b
+
+云南移动 IPTV 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/61553b603fe710ffadd30731bab3d258f35830e5
+
+云南 IPTV 直播源： https://github.com/uberarnaba/chgoyu/commit/a769e4cf9d3e11ce6a60e8c028fce0d1a157e6e3
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/9be9aef2762ef56057850a1225e70ddb3a3937ac
+
+贵州移动 IPTV 直播源： https://github.com/uberarnaba/chgoyu/commit/e7eaf358282536724322e87d867536f388fc1aa4
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/de165fd0518af14d7d8b011b0b743559f0788201
+
+贵州联通 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/39da5e97bfba5f5423ad2de5ebcb6f2f227a9e90
+
+贵州 IPTV 直播源： https://github.com/mrunayuk/vsbqec/commit/f4795832ad282a4b949ffd5357e74c8aca6495db
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/9a4ae9f53f7d613fe3ff5b02134f747331ccd853
+
+福建联通 IPTV 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/cb53dc2cfd887460256b1e97a82d60c2b908a9e8
+
+福建移动 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/5f1bc24698e4f2e7385ea8cb8835261609c6affb
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/51fa4a06937a96d4387aa2f6a943a9f281fdde64
+
+福建电信 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/3e47e0719bbd091bbe369fa606dedc1533fad870
+
+福建 IPTV 直播源： https://github.com/mrunayuk/vsbqec/commit/70602ce974b32c3ea3db9a215c1af3c55cefdbfa
+
+安徽移动 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/0c64411368658179cf911983d5bd846044904482
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/90fc304f1325754e8dff518dadc445c86e30b74d
+
+安徽电信 IPTV 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/705251be9c29d434f855c993c075e080d7bc1433
+
+安徽联通 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/1d655ed5b11f491463243b0562d912c1060d28d0
+
+安徽 IPTV 直播源： https://github.com/mrunayuk/vsbqec/commit/a6f60b872b8724dd0f5d65e81f6f912e39e3b3e4
+
+陕西地方台直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/782b4e11660fbaed5733f60b728e3f13755e07df
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/01b7d30f4bf8da93c84c5f0dab326d236916e285
+
+陕西电信 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/7b99b1615dafa17a894d094a8fa7b19700b50bd5
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/3bce1fc5024bd51cf039a83de285013931f59552
+
+陕西移动 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/a4680ea6ae26f29ae95eddab43f7e93fa7ae80eb
+
+陕西 IPTV 直播源： https://github.com/mrunayuk/vsbqec/commit/29e8533fe2fc79dbdb377dd35447b7752078ab39
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/0e87d1291550ea291c38e44a64bdc3e0ffc01d80
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/09f15a47dc35598dfc2fec32eedc1da7417785b5
+
+甘肃 IPTV 直播源： https://github.com/uberarnaba/chgoyu/commit/45b224ef33f4ba8631553944a4e6feff7d0c3cef
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/b0443f0d492d10eb399da6f316059685f8299144
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/10adee0a3e27627c71d590b93435a3c274c452f4
+
+山西联通 IPTV 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/277f7f55627e064a114985ca3772cf438018ebc7
+
+山西 IPTV 直播源： https://github.com/uberarnaba/chgoyu/commit/db4ee662deb3d148dd13b1914c747a1b5013673f
+
+天津电信组播直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/9e59a4d9a44ccd470d06d7415dc3678dcf11e3f7
+
+天津联通组播直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/668d599caf0906d7fed96a352d681e9487c25054
+
+天津 IPTV 直播源： https://github.com/mrunayuk/vsbqec/commit/3c997415ed23a5ce85b3aa38bd6726332fa0e027
+
+上海移动直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/42205480258dfa4f1ff887c9437c0d64e226dbb8
+
+上海联通组播直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/7aa946ba1f26d0c4601756d2852c42162fe37429
+
+上海联通直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/9fb909dc1b7e52043cecdffb55a7cdc123a24aef
+
+上海电信组播直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/7e57f620513facb106300b231de6630d377d7d39
+
+上海电信直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/6ea2db8055f4b989d29663ebf6c58863d956c41c
+
+上海 IPTV 直播源： https://github.com/mrunayuk/vsbqec/commit/2213503eff19cce38ea81f900ec8127ed10c9258
+
+北京移动 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/f311bf9efa82333c1a2ceb9ba9a637b1b885b755
+
+北京移动组播直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/6a4089d11addd9b3fa2e6a97102a7dc518a77e6a
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/851338f0e262732a09eb2c0da162eebb5665f1aa
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/3b0b0d8043a662c9290cf5a3663cce1adeefb04e
+
+北京联通 IPTV 直播源下载地址： https://github.com/uberarnaba/chgoyu/commit/ce36f86da9eb27596e4feaf10d7174d2c14e7670
+
+北京 IPTV 直播源： https://github.com/mrunayuk/vsbqec/commit/23b817bc10403a6d25e2e9e25665be857615e33f
+
+部分地区的移动可全网通用： https://github.com/uberarnaba/chgoyu/commit/86c30e7515e2791cc96cd44909568cd18bbd01f5
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/mrunayuk/vsbqec/commit/3c4761262ae345fe5e033e549aeae67f0a85b93e
+
+广播电台下载地址： https://github.com/uberarnaba/chgoyu/commit/58dfa955533367bea27a4bb1d8eae9b9e87cb1e9
+
+国内景区直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/0a2a412baa863a79f6058a14159ba8665c4b26ea
+
+轮播华数黑莓下载地址： https://github.com/uberarnaba/chgoyu/commit/d2f4a5f7ee3cfe8485ff8746e3593ce8f22c71ba
+
+台湾香港澳门电视台直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/ef7c2d84cde666df19579da79a855751c36e6c34
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/uberarnaba/chgoyu/commit/69750cf985037bc4e46d0257b942f7fc32c660cf
+
+国外电视台直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/57f83fbbc4442b6fe797ae963fd1e2b16eea2b3f
+
+卫视地方台安徽农大下载地址： https://github.com/uberarnaba/chgoyu/commit/50b2b15dc7a0cdc7b065b23b2652bdb3b0bb9a27
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/mrunayuk/vsbqec/commit/6d1cd153f070a5cc6db5fdcbc75d5665c50732de
+
+卫视上海源下载地址： https://github.com/uberarnaba/chgoyu/commit/905ecd3d186d383f142709bd6704ce4a6e121e4b
+
+卫视重庆广电 下载地址： https://github.com/mrunayuk/vsbqec/commit/9d6b7d1d757935a8ccce2a1de053ad896aa6f774
+
+卫视百视 TV 下载地址： https://github.com/uberarnaba/chgoyu/commit/6d8a352296ae9b69d99799a7df4894969c28cf0f
+
+移动 IPv6 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/0d75908f8cf625e85d8b34357769baa79b2f0b98
+
+国内电视台 IPv6 直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/2b413289c8095121964fdcb532bfbe4ab35076e9
+
+各大卫视、上千个地方台： https://github.com/uberarnaba/chgoyu/commit/bd4742a217b1683a74cb2e860a9f38561c4d2435
+
+国内电视台直播源下载地址： https://github.com/mrunayuk/vsbqec/commit/050d8b64ae164f0d42ecb7a2c73b17cc388c5b91
+
+全国可用直播源： https://github.com/uberarnaba/chgoyu/commit/6079ab62819ad0e874827aa2542091da43cca0f7
+
+包括完整内容所有已知频道： https://github.com/mrunayuk/vsbqec/commit/320546d3da87efbb98b683b7dcb49d99a23e89c7
+
+除成人内容以外的已知频道： https://github.com/uberarnaba/chgoyu/commit/12dad5f305dee21af164766079703a9e401c7c53
+
+收集来自世界各地公开可用的 IPTV： https://github.com/mrunayuk/vsbqec/commit/ea5c7d3f7953c209e18fd5a17e0cf823d5baf030
+
+稳定地址： https://github.com/uberarnaba/chgoyu/commit/7a3bb84305c8a78c016e9df6d31b7bb158c6d8cc
+
+2026-06-29 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/mrunayuk/vsbqec/commit/212be87a21928e10a22909d49b45bbb2fbaf4402
+
+2026-06-29 更新 IPTV 工具： https://github.com/uberarnaba/chgoyu/commit/b137510593abd2ba8b9df78c4f9199ddc2550128
+
+2026-06-29 更新世界各地 IPTV 频道： https://github.com/mrunayuk/vsbqec/commit/659655db4be6e7a19a70251a46d05ff0b7bd310b
+
+2026-06-29 更新全国可用直播源： https://github.com/uberarnaba/chgoyu/commit/6584cc2200c5e84f84da6a2ad7b5384eb48264c3
+
+新增各地运营商的 IPTV 地址： https://github.com/mrunayuk/vsbqec/commit/b6bad1d2792e62776948ab6c896decec0ee20bf5
+
+插件推荐： https://github.com/uberarnaba/chgoyu/commit/c94e29fbaef32b093cea992f840ca44365d61629
+
+视频教程增加： https://github.com/mrunayuk/vsbqec/commit/207fab5e07502dc21afcf72227f21f08c2a9f883
+
+咪咕源失效： https://github.com/uberarnaba/chgoyu/commit/b50aa059e8b4fba678f38b289c559ba1aab7d82c
+
+2026-06-29 更新各地运营商 IPTV 直播源： https://github.com/mrunayuk/vsbqec/commit/b7875f0a6b4b23d963815c91d77559a020ec8c43
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/uberarnaba/chgoyu/commit/4c87a30718ba9e6a114a721f7e3ba61b0ca3a0f8
+
+新增辽宁广电直播源： https://github.com/mrunayuk/vsbqec/commit/b07dcc5320b1712052b7ee4e8f9ef678a20c9413
+
+新增江西广电直播源： https://github.com/uberarnaba/chgoyu/commit/a443a67d15dcc604ab1c6747d3df4a8b74c38923
+
+新增湖北广电直播源： https://github.com/mrunayuk/vsbqec/commit/9102eed87a755157f5d867e82b2ffaf8612e4272
+
+新增中国广电 cctv + 卫视直播源： https://github.com/uberarnaba/chgoyu/commit/b5262051f8a41317602c1b1af3adeaec59c8d3a3
+
+新增辽宁电信 IPTV 直播源： https://github.com/mrunayuk/vsbqec/commit/76aa1d07cc0230273f9ebfa24048e3473499e0a0
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/uberarnaba/chgoyu/commit/4d998fd4eaa69d659e1fd09fc84ecbbe5017d8be
+
+新增辽宁移动直播源： https://github.com/mrunayuk/vsbqec/commit/93c10e6d9bd4dc1c578419b132ff48235e5ac0d9
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/uberarnaba/chgoyu/commit/7c9cc2e889f6ce3fb40975cdb079b157751bda76
+
+新增广东联通 IPTV 直播源： https://github.com/mrunayuk/vsbqec/commit/b2dee540bbab3e079e84f40d2079e3b577c4f794
+
+新增四川广电 IPTV 直播源： https://github.com/uberarnaba/chgoyu/commit/06384d46f287fae64aab7e810dd7d5833d961ce2
+
+新增云南电信 IPTV 直播源： https://github.com/mrunayuk/vsbqec/commit/fe58f15669b81dbfcbbd804bfd0f45d75c417bc2
+
+2026-06-29 更新国内电视台直播源： https://github.com/uberarnaba/chgoyu/commit/5839dad80021ee1cd962ee6b81d4add8fc5f6979
+
+新增福建电信 IPTV 直播
