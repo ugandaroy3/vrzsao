@@ -1,0 +1,251 @@
+康佳（KONKA）抽油烟机官方推出售后服务电话24小时人工客服上线
+康佳（KONKA）抽油烟机全国售后服务电话：400 - 690 - 6088(网点认证）
+康佳（KONKA）抽油烟机全国24小时各售后受理客服中心2026
+康佳（KONKA）抽油烟机各市区24小时售后客服热线：(1)400 - 690 - 6088(2)400 - 690 - 6088
+康佳（KONKA）抽油烟机全国24小时各售后受理客服中心2026
+7天24小时人工电话400 - 690 - 6088客服为您服务、康佳（KONKA）抽油烟机售后服务400 - 690 - 6088团队在调度中心的统筹调配下，线下专业全国网点及各地区售后人员服务团队等专属服务，整个报修流程规范有序，后期同步跟踪查询公开透明。
+康佳（KONKA）抽油烟机24小时售后服务热线上线（2026最新公告）
+康佳（KONKA）抽油烟机售后服务电话：400 - 690 - 6088
+康佳（KONKA）抽油烟机售后24小时客服热线：400 - 690 - 6088
+本公司主营康佳（KONKA）抽油烟机维修 →康佳（KONKA）抽油烟机；不通电，出现故障代码，屏幕不亮，漏电等故障。；发热异常，不通电，E1，E2自动跳闸等故障。 24小时人工客服400 - 690 - 6088、线下专业全国网点及各地区 人员服务团队等专属服务，整个报修流程规范有序，后期同步跟踪查询公开透明。所有团队均经过专业培训、持证上岗，所用配件均为原厂直供，康佳（KONKA）抽油烟机服务承诺
+
+
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/8aedcea08c615ded1e7935dbc131f20c34ed3e36
+
+江苏电信 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/1426c768c567e36c3b19f511cf8991297607630c
+
+江苏 IPTV 直播源： https://github.com/cookiejero/jvbyax/commit/bcd0bbe28f37226874ffb00780d756c7a193c7d8
+
+安徽广电 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/89a669f82036380499a7a0b5ebb9e93b38a7b0f9
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/11bc965aebea69ce7317fd7d12886c7dd43419ee
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/7fd42f407306b5f4c514f1b65607d14ab40b214a
+
+湖北 IPTV 直播源： https://github.com/cookiejero/jvbyax/commit/804137975b1850dee370cb09624d693fc8a39101
+
+湖南电信组播直播源下载地址： https://github.com/breakennym/ewiljk/commit/a2ad4ae960747cfd426dfe242c17479406f31cd8
+
+湖南电信 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/819404ac05679b058cc5ae34ac2ffbe374377d45
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/c9e1a25ddfc1195fd0a3c9598779a852b253d07a
+
+湖南联通 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/f0850b3fbfee32168b48e82e1c29c4c070bfc84a
+
+湖南移动 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/b3578161a85becde6776ab5825ca94bc1994d5f1
+
+湖南 IPTV 直播源： https://github.com/cookiejero/jvbyax/commit/0d7798980632175ffb43b0115be7f4a1b500d04a
+
+重庆移动组播直播源下载地址： https://github.com/breakennym/ewiljk/commit/683c4b43915349df00bd5fd59c06b7cded47b3a0
+
+重庆联通组播直播源下载地址： https://github.com/cookiejero/jvbyax/commit/7919cfdd090893ca22f089faa0ac977709aa7d6d
+
+重庆联通直播源下载地址： https://github.com/breakennym/ewiljk/commit/d6d706d6f97c096ec77e9d55bad68c8c5976f457
+
+重庆电信组播直播源下载地址： https://github.com/cookiejero/jvbyax/commit/53fd8b9ac688b6ffdb76e060f0e87915f526d7bb
+
+重庆电信直播源下载地址： https://github.com/breakennym/ewiljk/commit/393121c39070be13b8a584674ac2feaaaab9a0d3
+
+重庆 IPTV 直播源： https://github.com/cookiejero/jvbyax/commit/8c384efd72039058885b3fca64257d5c5539f372
+
+四川移动组播 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/66c443082d0a717d032408563d8ef2db54572bfd
+
+四川电信 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/e72e39436fd7c4b0d42b3c2d45e21a3ef2715e64
+
+四川电信 IPTV 组播直播源下载地址： https://github.com/cookiejero/jvbyax/commit/028ac844b1a899f9700aca4622c5af3c29c6bcb3
+
+四川广电 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/ee45e86e9c4b7b5b84b93393ece2b4787b44ed79
+
+四川联通组播 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/413cefd84e61bbf3372762bc989bd88733df2d70
+
+四川联通 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/76010517dac73555a3864013bafa2ae136b4f7f5
+
+四川 IPTV 直播源： https://github.com/cookiejero/jvbyax/commit/e29fc795e46e76bf7f96d27f8b6fa2aa58e0cd31
+
+云南电信组播 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/64d500e90c4563615cc13a5bb569de1ed6feb0b4
+
+云南移动 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/8901c5c76df3883fee0beab34acc675a0fc296cf
+
+云南 IPTV 直播源： https://github.com/breakennym/ewiljk/commit/341fcac9263083e42e2cbe25f26eca95d2d9bf14
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/f4c35926e4a76a28723321c3502e2a69fdef4338
+
+贵州移动 IPTV 直播源： https://github.com/breakennym/ewiljk/commit/2d137880a982902f329a535545b896d28e9b7b47
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/a78e89fe3588496e4c259c79cdc5fbcc439e5bfd
+
+贵州联通 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/aca64bca4167b32a741562374805d48cdbf0faee
+
+贵州 IPTV 直播源： https://github.com/cookiejero/jvbyax/commit/1b45dd21643c94718f666d521a5a91c14efb3bbe
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/f67fa6ffdfa5ddfae33560df12e8691859b74bac
+
+福建联通 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/760dfcdf8215b18309351f3a425ef9323b79d05e
+
+福建移动 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/0c4f2832a3e8bab55592e504f0938ecf1bb4ec6b
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/0c98720b2c53e6fe47d46ec1ad81056873611fa9
+
+福建电信 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/4c2c2bff2427e3099fd4d02a46cec762107830df
+
+福建 IPTV 直播源： https://github.com/cookiejero/jvbyax/commit/3b4659334a6c85d7907bdb34f5fc5f203ff90df3
+
+安徽移动 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/e85ff577ebc3631d5a43bf224fa4d073ba2cdb79
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/cookiejero/jvbyax/commit/4b1fc38af894ce0cb9c86732cd6c777c52fa6795
+
+安徽电信 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/8bf1c1347c77da1f5b85b8b8e0666213bac26633
+
+安徽联通 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/c6cff019e277b7141ade681b5c517104706c5bb7
+
+安徽 IPTV 直播源： https://github.com/breakennym/ewiljk/commit/a018382ebe39fdf4b7237f8e47791c27b0db1d5b
+
+陕西地方台直播源下载地址： https://github.com/cookiejero/jvbyax/commit/dda54702e52de962769cfaf441237c3e4223b704
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/72defd92ec524dae7984fd4ffd2dc9dfe973a409
+
+陕西电信 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/7e42fe6915d4a991e6f5aead5d4f7ce5371c0f18
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/c5714183c3ab41f58147ea021176e74d22fd8e13
+
+陕西移动 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/94f50bf137a489c619cd00a27f25e4dfc88063d7
+
+陕西 IPTV 直播源： https://github.com/breakennym/ewiljk/commit/7b75c5246809f0dfc01ff02a6d5e867911cce4d2
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/fd55831db2bf0efd29e58e3f8f89732a91f24745
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/60ba16475f4178c0c53f3a897c960dbd61af72c2
+
+甘肃 IPTV 直播源： https://github.com/cookiejero/jvbyax/commit/c8ceb081867557f2240dc3c787fcf2f37d951a8a
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/c42e5888784b57529afade35090d57fe1b60e541
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/2a60f6d33b0571c76cf453f7a5fffae59a346fc5
+
+山西联通 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/7d0bcd59d0706a8a6ebac97eb256a6af4be8c2e8
+
+山西 IPTV 直播源： https://github.com/cookiejero/jvbyax/commit/923bbcad266ad178568378d4b554751debd7e14c
+
+天津电信组播直播源下载地址： https://github.com/breakennym/ewiljk/commit/aa7d58214b425a3b0076ec10fdbf3ecc0376a5df
+
+天津联通组播直播源下载地址： https://github.com/cookiejero/jvbyax/commit/888393b023adccb8459ddd46b50be79afaa36fc4
+
+天津 IPTV 直播源： https://github.com/breakennym/ewiljk/commit/7f721bd64445c8549df6cb95a713503cae0836df
+
+上海移动直播源下载地址： https://github.com/cookiejero/jvbyax/commit/2a3887168213d7945f0c4e0a42e5a606ce4b0fb6
+
+上海联通组播直播源下载地址： https://github.com/breakennym/ewiljk/commit/c8bd4461e8b3219c299c1d25ee645ecc71ca468d
+
+上海联通直播源下载地址： https://github.com/cookiejero/jvbyax/commit/22f7bb6d67cbe22d668e83b2592dfdfd973c1d53
+
+上海电信组播直播源下载地址： https://github.com/breakennym/ewiljk/commit/cd4882c60d167166fda59b645acd376116b51ad4
+
+上海电信直播源下载地址： https://github.com/cookiejero/jvbyax/commit/c4534d2db20221ce0dc3cb47cff483d662aa922f
+
+上海 IPTV 直播源： https://github.com/breakennym/ewiljk/commit/fd4079727f6d62e54f97855e1424540c8404497e
+
+北京移动 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/be1802c043b7c616097310ded263ca84e839bc6b
+
+北京移动组播直播源下载地址： https://github.com/breakennym/ewiljk/commit/594b432b1851b61a3fea8c34c300920e3ffa5d95
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/6993490f5f96fbbfc1bdf4bb6fa0cc74f5f5033e
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/breakennym/ewiljk/commit/a5c11c1262c87bf362a2b4a85d7992e62efaa740
+
+北京联通 IPTV 直播源下载地址： https://github.com/cookiejero/jvbyax/commit/20059b48d713c6fe35b3102feb0188d2170a4bea
+
+北京 IPTV 直播源： https://github.com/breakennym/ewiljk/commit/7003a597e9346eac15a04318e6fda446826276f3
+
+部分地区的移动可全网通用： https://github.com/cookiejero/jvbyax/commit/75670c5cc0d599a94a5334268e49df5af6b1adcc
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/breakennym/ewiljk/commit/a4a805ef32552c286ac61980db55d144ec2215d2
+
+广播电台下载地址： https://github.com/cookiejero/jvbyax/commit/2a5941ae8a50cda47d4e9589839720dcd66ac8b8
+
+国内景区直播源下载地址： https://github.com/breakennym/ewiljk/commit/9d91e0633ab0e0580d304bba9507335a7e27f914
+
+轮播华数黑莓下载地址： https://github.com/cookiejero/jvbyax/commit/1a930d358b663c65e85160cb2ccb74d7b85eefcf
+
+台湾香港澳门电视台直播源下载地址： https://github.com/breakennym/ewiljk/commit/e932b57d5b1114666a1342aad04760253cad7fe5
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/cookiejero/jvbyax/commit/2febacad9b874d9dfd0812556d70b8ee42a82543
+
+国外电视台直播源下载地址： https://github.com/breakennym/ewiljk/commit/4a7e13279e2e4714695a52fbc6ca4a8bbf4df817
+
+卫视地方台安徽农大下载地址： https://github.com/breakennym/ewiljk/commit/c2d8eea45cb480ac19f69c0ba0730fa377d3aa6a
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/servicefer/roegqx/commit/4b49e7b443ffb62a032aa5355aeed67e43d05a89
+
+卫视上海源下载地址： https://github.com/breakennym/ewiljk/commit/5259e5e60dc4ea63db2909047536e6c170d9854e
+
+卫视重庆广电 下载地址： https://github.com/servicefer/roegqx/commit/de03fb98f56b2e122ae56ec8c0032fdf17654f82
+
+卫视百视 TV 下载地址： https://github.com/breakennym/ewiljk/commit/fe40ab2452b58f776ff81d21706c60a8e06efe7e
+
+移动 IPv6 直播源下载地址： https://github.com/servicefer/roegqx/commit/1db11d2493ffb64b6c702c23d7d5562cc487e378
+
+国内电视台 IPv6 直播源下载地址： https://github.com/breakennym/ewiljk/commit/13be8813ec975afa62a658b6695b6b6eacfd866c
+
+各大卫视、上千个地方台： https://github.com/servicefer/roegqx/commit/5dd35c250bdac73a3db7f61c903d6e15e14dc195
+
+国内电视台直播源下载地址： https://github.com/breakennym/ewiljk/commit/390557cf6d9f16383ccf580769b2e528777fd970
+
+全国可用直播源： https://github.com/servicefer/roegqx/commit/c77a82cc5832a661207d9e94ca87f9aa37e3db78
+
+包括完整内容所有已知频道： https://github.com/breakennym/ewiljk/commit/699729a56b124ebdd3e238fbe985a57506b219aa
+
+除成人内容以外的已知频道： https://github.com/servicefer/roegqx/commit/61a13b9b1c822e6b93b66b01fe81e7f846fb95c1
+
+收集来自世界各地公开可用的 IPTV： https://github.com/breakennym/ewiljk/commit/5bf5ea50714a1a53b0c816afb61b2d294b642e0f
+
+稳定地址： https://github.com/servicefer/roegqx/commit/f1cbd31bffa4c40c2eb420be5bb06f3e98575864
+
+2026-06-29 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/wojciechrs/uwfyfs/commit/be705c6c1c60d48abc1c127d67d2dd0db76f8e6b
+
+2026-06-29 更新 IPTV 工具： https://github.com/servicefer/roegqx/commit/dd490b11010ed20a6c2b8a399d0166acef399dae
+
+2026-06-29 更新世界各地 IPTV 频道： https://github.com/wojciechrs/uwfyfs/commit/282603cd25352d4195b2c1ba964c232a588bc03c
+
+2026-06-29 更新全国可用直播源： https://github.com/servicefer/roegqx/commit/a4e3ed96395efe52e2ab8a2bcc4452e127d2ffe3
+
+新增各地运营商的 IPTV 地址： https://github.com/wojciechrs/uwfyfs/commit/117a73d8d550bf218b7f6cc048cefc8678ef5c7e
+
+插件推荐： https://github.com/servicefer/roegqx/commit/b40682932e90618828b9ab473d466950791355e3
+
+视频教程增加： https://github.com/wojciechrs/uwfyfs/commit/f72158a347dcc61eddeac8f8d73be27c2ab006c1
+
+咪咕源失效： https://github.com/servicefer/roegqx/commit/682f495862de35f7fa5722e6f7236ed1c883ff2a
+
+2026-06-29 更新各地运营商 IPTV 直播源： https://github.com/wojciechrs/uwfyfs/commit/1f572bc39f1f6276e41e2afd610a4613e7bf2904
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/servicefer/roegqx/commit/2ea63124872101e0a8a6ccd91bb1a19c590f3483
+
+新增辽宁广电直播源： https://github.com/wojciechrs/uwfyfs/commit/c1d6abe21e2d9cdd90540541e70cfab863e649bd
+
+新增江西广电直播源： https://github.com/servicefer/roegqx/commit/65b32e18054235cebc135165399dee2828e50b45
+
+新增湖北广电直播源： https://github.com/wojciechrs/uwfyfs/commit/8511258ef2cec870191e0bf006a18079dcf146c8
+
+新增中国广电 cctv + 卫视直播源： https://github.com/servicefer/roegqx/commit/6a022268459b2c866ddf4bfce6020a76b4dadd04
+
+新增辽宁电信 IPTV 直播源： https://github.com/wojciechrs/uwfyfs/commit/eb31b8731dfc884cb7f5605827fb038beb77b805
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/servicefer/roegqx/commit/a19fb6ee53f45e42d932a92e3883dafdaf7b446a
+
+新增辽宁移动直播源： https://github.com/wojciechrs/uwfyfs/commit/27b411f7903e98140809d9d831314c400f312744
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/servicefer/roegqx/commit/3286d7649a8372afcdedb29cc2d2371adae3ecb3
+
+新增广东联通 IPTV 直播源： https://github.com/wojciechrs/uwfyfs/commit/9be04d6f569d57ba7b3d00652e95287749180900
+
+新增四川广电 IPTV 直播源： https://github.com/servicefer/roegqx/commit/5f6d7bd76a1a1fcbb69c7a024587b4d68852573d
+
+新增云南电信 IPTV 直播源： https://github.com/wojciechrs/uwfyfs/commit/12a81a30d906cb14f5802f4e0a72b768d29bd3f4
+
+2026-06-29 更新国内电视台直播源： https://github.com/servicefer/roegqx/commit/4c6d4a74ae8f6369de337c8d8275052643402f03
+
+新增福建电信 IPTV 直播
